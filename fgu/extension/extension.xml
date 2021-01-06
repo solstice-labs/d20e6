@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3.12" release="1">
+  <announcement text="D20E6 v0.0.1 for Fantasy Grounds https://github.com/solstice-labs/d20e6" font="emotefont" icon="d20e6" />
+  <properties>
+    <name>D20E6</name>
+    <version>0.1</version>
+    <author>TheOldOne</author>
+    <description>Extension for D20E6 3.5E ruleset</description>
+    <loadorder>16</loadorder>
+    <ruleset><name>3.5E</name></ruleset>
+    <ruleset><name>PFRPG</name></ruleset>
+  </properties>
+  <base>
+    <icon name="d20e6" file="logo.jpg" />
+  </base>
+</root>

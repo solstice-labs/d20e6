@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+  Please see the license.html file included with this distribution for 
+  attribution and copyright information.
+-->
+
+<root>
+	<distance>
+		<base>5</base>
+		<diagmult>1.5</diagmult>
+		<suffix>'</suffix>
+	</distance>
+	
+	<die name="dF" />
+	<die name="rF"  />
+	<die name="gF"  />
+	<die name="bF"  />
+	<die name="pF"  />
+</root>

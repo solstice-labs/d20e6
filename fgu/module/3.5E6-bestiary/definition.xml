@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="4.0.6" release="0.0.1">
+	<name>3.5E6 Bestiary</name>
+	<displayname>3.5E6 Epic 6th Bestiary</displayname>
+	<author>TheOldOne</author>
+	<ruleset>3.5E6</ruleset>
+	<replaces>3.5E</replaces>
+</root>
